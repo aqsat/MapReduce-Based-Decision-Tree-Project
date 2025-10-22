@@ -1,0 +1,83 @@
+algeria	14
+angola	1
+argentina	133
+australia	11
+austria	43
+belgium	54
+bolivia	1
+bosnia and herzegovina	4
+brazil	225
+bulgaria	22
+cameroon	18
+canada	0
+chile	41
+china pr	0
+colombia	29
+costa rica	18
+croatia	21
+cuba	5
+czech republic	3
+czechoslovakia	44
+c�te d'ivoire	13
+denmark	27
+dutch east indies	0
+ecuador	10
+egypt	3
+el salvador	1
+england	79
+france	108
+german dr	5
+germany	104
+germany fr	131
+ghana	13
+greece	6
+haiti	2
+honduras	3
+hungary	87
+ir iran	2
+iran	5
+iraq	1
+israel	1
+italy	128
+jamaica	3
+japan	14
+korea dpr	6
+korea republic	31
+kuwait	2
+mexico	58
+morocco	12
+netherlands	91
+new zealand	4
+nigeria	20
+northern ireland	13
+norway	7
+paraguay	30
+peru	19
+poland	44
+portugal	43
+republic of ireland	10
+romania	30
+russia	13
+saudi arabia	9
+scotland	25
+senegal	7
+serbia	2
+serbia and montenegro	2
+slovakia	5
+slovenia	5
+south africa	11
+soviet union	53
+spain	92
+sweden	74
+switzerland	45
+togo	1
+trinidad and tobago	0
+tunisia	8
+turkey	20
+ukraine	5
+united arab emirates	2
+uruguay	80
+usa	38
+wales	4
+yugoslavia	60
+zaire	0

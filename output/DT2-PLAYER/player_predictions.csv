@@ -1,0 +1,83 @@
+team,team_initials,actual_high_goals,predicted_high_goals
+algeria,ALG,1,1
+angola,ANG,0,1
+argentina,ARG,1,1
+australia,AUS,1,0
+austria,AUT,1,1
+belgium,BEL,1,1
+bosnia and herzegovina,BIH,0,1
+bolivia,BOL,0,0
+brazil,BRA,1,1
+bulgaria,BUL,1,0
+canada,CAN,0,0
+chile,CHI,1,1
+china pr,CHN,0,0
+côte d'ivoire,CIV,1,1
+cameroon,CMR,1,0
+colombia,COL,1,1
+costa rica,CRC,1,1
+croatia,CRO,1,1
+cuba,CUB,0,0
+czech republic,CZE,0,1
+denmark,DEN,1,1
+ecuador,ECU,1,1
+egypt,EGY,0,0
+england,ENG,1,1
+spain,ESP,1,1
+france,FRA,1,1
+germany,FRG,1,1
+germany,GDR,0,1
+germany,GER,1,1
+ghana,GHA,1,1
+greece,GRE,0,0
+haiti,HAI,0,0
+honduras,HON,0,0
+hungary,HUN,1,1
+indonesia,INH,0,1
+republic of ireland,IRL,1,1
+iran,IRN,0,0
+iraq,IRQ,0,0
+israel,ISR,0,0
+italy,ITA,1,1
+jamaica,JAM,0,0
+japan,JPN,1,1
+korea republic,KOR,1,0
+saudi arabia,KSA,0,0
+kuwait,KUW,0,0
+morocco,MAR,1,1
+mexico,MEX,1,0
+netherlands,NED,1,1
+nigeria,NGA,1,1
+northern ireland,NIR,1,0
+norway,NOR,0,1
+new zealand,NZL,0,0
+paraguay,PAR,1,1
+peru,PER,1,0
+poland,POL,1,1
+portugal,POR,1,1
+korea dpr,PRK,0,0
+romania,ROU,1,1
+south africa,RSA,1,1
+russia,RUS,1,1
+serbia,SCG,0,1
+scotland,SCO,1,0
+senegal,SEN,0,1
+el salvador,SLV,0,0
+serbia,SRB,0,1
+switzerland,SUI,1,1
+slovakia,SVK,0,1
+slovenia,SVN,0,0
+sweden,SWE,1,1
+czechoslovakia,TCH,1,1
+togo,TOG,0,0
+trinidad and tobago,TRI,0,0
+tunisia,TUN,0,0
+turkey,TUR,1,1
+united arab emirates,UAE,0,0
+ukraine,UKR,0,1
+soviet union,URS,1,1
+uruguay,URU,1,1
+united states,USA,1,1
+wales,WAL,0,1
+yugoslavia,YUG,1,1
+zaire,ZAI,0,0

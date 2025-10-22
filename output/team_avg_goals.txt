@@ -1,0 +1,83 @@
+algeria	1.00	1.50	14
+angola	0.33	0.67	3
+argentina	1.64	1.05	81
+australia	0.85	2.00	13
+austria	1.48	1.62	29
+belgium	1.26	1.58	43
+bolivia	0.17	3.33	6
+bosnia and herzegovina	1.33	1.33	3
+brazil	2.08	1.06	108
+bulgaria	0.85	2.04	26
+cameroon	0.78	1.87	23
+canada	0.00	1.67	3
+chile	1.21	1.47	34
+china pr	0.00	3.00	3
+colombia	1.45	1.45	20
+costa rica	1.06	1.41	17
+croatia	1.31	1.06	16
+cuba	1.67	4.00	3
+czech republic	1.00	1.33	3
+czechoslovakia	1.47	1.50	30
+c�te d'ivoire	1.44	1.56	9
+denmark	1.69	1.50	16
+dutch east indies	0.00	6.00	1
+ecuador	1.00	1.10	10
+egypt	0.75	1.50	4
+el salvador	0.17	3.67	6
+england	1.27	0.90	62
+france	1.77	1.18	61
+german dr	0.83	0.83	6
+germany	2.17	0.96	48
+germany fr	2.11	1.24	62
+ghana	1.08	1.33	12
+greece	0.55	1.91	11
+haiti	0.67	4.67	3
+honduras	0.33	1.56	9
+hungary	2.72	1.78	32
+ir iran	0.33	1.67	6
+iran	0.83	2.00	6
+iraq	0.33	1.33	3
+israel	0.33	1.00	3
+italy	1.54	0.93	83
+jamaica	1.00	3.00	3
+japan	0.82	1.29	17
+korea dpr	0.86	3.00	7
+korea republic	1.00	2.16	31
+kuwait	0.67	2.00	3
+mexico	1.07	1.74	54
+morocco	0.92	1.38	13
+netherlands	1.69	0.91	54
+new zealand	0.67	2.33	6
+nigeria	1.05	1.47	19
+northern ireland	1.00	1.77	13
+norway	0.88	1.00	8
+paraguay	1.11	1.41	27
+peru	1.27	2.07	15
+poland	1.42	1.29	31
+portugal	1.65	1.12	26
+republic of ireland	0.77	0.77	13
+romania	1.43	1.52	21
+russia	1.44	1.44	9
+saudi arabia	0.69	2.46	13
+scotland	1.09	1.78	23
+senegal	1.40	1.20	5
+serbia	0.67	1.00	3
+serbia and montenegro	0.67	3.33	3
+slovakia	1.25	1.75	4
+slovenia	0.83	1.67	6
+south africa	1.22	1.78	9
+soviet union	1.71	1.10	31
+spain	1.56	1.12	59
+sweden	1.61	1.50	46
+switzerland	1.32	1.76	34
+togo	0.33	2.00	3
+trinidad and tobago	0.00	1.33	3
+tunisia	0.67	1.42	12
+turkey	2.00	1.70	10
+ukraine	1.00	1.40	5
+united arab emirates	0.67	3.67	3
+uruguay	1.54	1.40	52
+usa	1.12	1.88	34
+wales	0.80	0.80	5
+yugoslavia	1.62	1.24	37
+zaire	0.00	4.67	3
